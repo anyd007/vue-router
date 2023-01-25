@@ -1,0 +1,7 @@
+{
+     "jobs": [
+        { "title": "Andrzej Duda", "id": 1, "details": "Prezydent" },
+        { "title": "Mateusz Morawiecki", "id": 2, "details": "Premier" },
+        { "title": "Jarosław Kaczyński", "id": 3, "details": "PREZES" }
+     ]
+}
